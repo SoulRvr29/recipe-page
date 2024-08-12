@@ -1,6 +1,7 @@
 ---
 import "../css/global.css"
 import { Image } from "astro:assets"
+import Footer from "../components/Footer"
 const { frontmatter } = Astro.props
 ---
 
@@ -25,5 +26,6 @@ const { frontmatter } = Astro.props
 				<slot />
 			</section>
 		</main>
+		<Footer />
 	</body>
 </html>
