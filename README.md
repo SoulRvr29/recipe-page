@@ -16,15 +16,15 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://recipe-page-virid.vercel.app/](https://recipe-page-virid.vercel.app/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - Flexbox
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Markdown
+- [Preact](https://preactjs.com/) - React library
+- [Astro](https://astro.build/) - web framework
 
 ## Author
 
